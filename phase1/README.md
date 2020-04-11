@@ -17,7 +17,7 @@ For this phase we completed
 ### Naturalistic Observation
  - For this method our users matched the demographics we were looking for as they were all first time or long time climbers at the Chico State Climbing Wall. 
  - We found that the slowest part of the process was waiting to get shoes. 
-Similarly, they appeared the most frustrated waiting to get shoes
+ - Similarly, they appeared the most frustrated waiting to get shoes
 
 ## Conclusions
  - We need to find a way to optimize getting shoes to users.
@@ -32,13 +32,13 @@ Similarly, they appeared the most frustrated waiting to get shoes
 ### Name
  - Jane Jackson
 ### Work/School
--Sophomore at Chico State.
--Working on her mechanical engineering degree
+ - Sophomore at Chico State.
+ - Working on her mechanical engineering degree
 ### Demographics
--19 years old
--Large friend group
--Works out with friends
--Has never climbed
+ - 19 years old
+ - Large friend group
+ - Works out with friends
+ - Has never climbed
 ### Goals/Tasks
  - Curious about the Chico State campus. Has some free time between classes.
 ### Abilities
@@ -47,13 +47,13 @@ Similarly, they appeared the most frustrated waiting to get shoes
 ### Name
  - Jeff Jacobson
 ### Work/School
--Super Senior at Chico State.
--Working on his electrical engineering degree
--Works at Adventure Outings
+ - Super Senior at Chico State.
+ - Working on his electrical engineering degree
+ - Works at Adventure Outings
 ### Demographics
--24 years old
--Climbs 3-4 times a week
--Friends with climbers at school
+ - 24 years old
+ - Climbs 3-4 times a week
+ - Friends with climbers at school
 ### Goals/Tasks
  - Taking a lot of easy classes along with his senior project. Has a lot of free time. 
 ### Abilities
