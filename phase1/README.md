@@ -28,36 +28,36 @@ For this phase we completed
  - This was all mock data collected from our classmates during the COVID-19 outbreak. As such, it does not accurately match numbers we would get if we were to perform this study in the Chico State Climbing Wall at all. 
 
 ## Personas
-### Persona 1
-#### Name
+### Persona 1:
+#### Name:
  - Jane Jackson
-#### Work/School
+#### Work/School:
  - Sophomore at Chico State.
  - Working on her mechanical engineering degree
-#### Demographics
+#### Demographics:
  - 19 years old
  - Large friend group
  - Works out with friends
  - Has never climbed
-#### Goals/Tasks
+#### Goals/Tasks:
  - Curious about the Chico State campus. Has some free time between classes.
-#### Abilities
+#### Abilities:
  - Proficient in most computer technologies. Decent typing speed. Must spend a lot of time on the internet for classes.
 
-### Persona 2
-#### Name
+### Persona 2:
+#### Name:
  - Jeff Jacobson
-#### Work/School
+#### Work/School:
  - Super Senior at Chico State.
  - Working on his electrical engineering degree
  - Works at Adventure Outings
-#### Demographics
+#### Demographics:
  - 24 years old
  - Climbs 3-4 times a week
  - Friends with climbers at school
-#### Goals/Tasks
+#### Goals/Tasks:
  - Taking a lot of easy classes along with his senior project. Has a lot of free time. 
-#### Abilities
+#### Abilities:
  - Not great with computers. Uses one finger to type numbers. Doesn’t use the numpad. Spends most of his free time finding new outdoor climbing areas.
 
 ## Scenarios
