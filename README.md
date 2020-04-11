@@ -1,17 +1,17 @@
 # Project Name
 
-Introduction - a brief summary of the general problem being studied and addressed
+Introduction - We are creating a more streamlined sign-in process for the Chico State Climbing Wall
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
+* **Michael Price** - Summary of contributions
+* **Ian McDonald** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
 
-* Executive Summary of methods,
-* data gathered,
-* and most important outcomes
+* We performed a mock naturalistic observation,
+* We gathered data that allows us to view the pitfalls of the current system,
+* This allows us to improve the design in a meaningful way
 
 [Full phase 1 report](phase1/)
 
