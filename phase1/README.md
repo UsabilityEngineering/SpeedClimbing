@@ -8,13 +8,13 @@ For this phase we completed
  - Brainstormed next steps
 
 ## Methods
-# Naturalistic Observation
+### Naturalistic Observation
  - We used this method in order to determine where the main bottlenecks and frustrations of the current sign-in process reside
  - We observed a total of 9 people
 
 ## Findings
 
-# Naturalistic Observation
+### Naturalistic Observation
  - For this method our users matched the demographics we were looking for as they were all first time or long time climbers at the Chico State Climbing Wall. 
  - We found that the slowest part of the process was waiting to get shoes. 
 Similarly, they appeared the most frustrated waiting to get shoes
@@ -29,34 +29,34 @@ Similarly, they appeared the most frustrated waiting to get shoes
 
 ## Personas
 
-# Name
+### Name
  - Jane Jackson
-# Work/School
+### Work/School
 -Sophomore at Chico State.
 -Working on her mechanical engineering degree
-# Demographics
+### Demographics
 -19 years old
 -Large friend group
 -Works out with friends
 -Has never climbed
-# Goals/Tasks
+### Goals/Tasks
  - Curious about the Chico State campus. Has some free time between classes.
-# Abilities
+### Abilities
  - Proficient in most computer technologies. Decent typing speed. Must spend a lot of time on the internet for classes.
 
-# Name
+### Name
  - Jeff Jacobson
-# Work/School
+### Work/School
 -Super Senior at Chico State.
 -Working on his electrical engineering degree
 -Works at Adventure Outings
-# Demographics
+### Demographics
 -24 years old
 -Climbs 3-4 times a week
 -Friends with climbers at school
-# Goals/Tasks
+### Goals/Tasks
  - Taking a lot of easy classes along with his senior project. Has a lot of free time. 
-# Abilities
+### Abilities
  - Not great with computers. Uses one finger to type numbers. Doesn’t use the numpad. Spends most of his free time finding new outdoor climbing areas.
 
 
