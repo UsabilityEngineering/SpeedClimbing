@@ -25,14 +25,14 @@ The staff pager only has one job: to alert a staff member of when someone requir
 Since no one but the staff interacts with the orientation video page, we tried to keep it very simple so none of our less tech savvy personas would accidentally press anything. 
 
 <p align="center">
-  <img src="../Assets/Shoes.png" alt="Shoe prompt">
+  <img src="../Assets/Shoes.png" alt="Shoe prompt" style="width:333px;height:210px;">
 </p>
 
 Like most of our design, we attempted to make it as simple and efficient as possible for the users and gave them only two choices. 
 
 <p align="center">
-  <img src="../Assets/StaffRequest.png" alt="Staff request">
-  <img src="../Assets/Final.png" alt="Final screen">
+  <img src="../Assets/StaffRequest.png" alt="Staff request" style="width:333px;height:210px;">
+  <img src="../Assets/Final.png" alt="Final screen" style="width:333px;height:210px;">
 </p>
 
 Both screens are meant to be simple while being as effective as possible at conveying what is happening. The final screen was also designed to be a bit satisfying.
