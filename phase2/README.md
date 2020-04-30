@@ -13,7 +13,7 @@ For our regular climber personas, we tried to make it simple for them to find th
 For staff, we made the orientation button fairly difficult to find so that no one else would accidentally press it as some of our personas were not too tech savvy and may be prone to accidents.
 
 <p align="center">
-  <img src="../Assets/Pager.png" alt="Staff pager" style="width:212px;height:512px;">
+  <img src="../Assets/Pager.png" alt="Staff pager" style="width:205px;height:284px;">
 </p>
 
 The staff pager only has one job: to alert a staff member of when someone requires assistance. As such, the design is simple with only two buttons for power and to reset it.
@@ -28,7 +28,7 @@ Since no one but the staff interacts with the orientation video page, we tried t
   <img src="../Assets/Shoes.png" alt="Shoe prompt" style="width:333px;height:210px;">
 </p>
 
-Like most of our design, we attempted to make it as simple and efficient as possible for the users and gave them only two choices. 
+Like most of our design, we attempted to make it as simple, efficient and error tolerant as possible for the users and gave them only two easy choices. 
 
 <p align="center">
   <img src="../Assets/StaffRequest.png" alt="Staff request" style="width:333px;height:210px;">
