@@ -35,4 +35,4 @@ Like most of our design, we attempted to make it as simple and efficient as poss
   <img src="../Assets/Final.png" alt="Final screen">
 </p>
 
-To make it slightly more satisfying, we added a final screen to let them know that they are ready to go climb
+Both screens are meant to be simple while being as effective as possible at conveying what is happening. The final screen was also designed to be a bit satisfying.
