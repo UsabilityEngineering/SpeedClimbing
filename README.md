@@ -17,7 +17,9 @@ Introduction - We are creating a more streamlined sign-in process for the Chico 
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+* Our wireframe artboard with justification for each step
+
+[Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
 
