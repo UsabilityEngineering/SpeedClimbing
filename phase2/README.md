@@ -22,16 +22,16 @@ The staff pager only has one job: to alert a staff member of when someone requir
   <img src="../Assets/Orientation.png" alt="Orientation" style="width:512px;height:384px;">
 </p>
 
-Since no one but the staff interacts with the orientation video page, we tried to keep it very simple so none of our less tech savvy personas one would accidentally press anything. 
+Since no one but the staff interacts with the orientation video page, we tried to keep it very simple so none of our less tech savvy personas would accidentally press anything. 
 
 <p align="center">
-  <img src="../Assets/Shoes-Prompt.png" alt="Shoe prompt" style="width:384px;height:512px;">
+  <img src="../Assets/Shoes-Prompt.png" alt="Shoe prompt">
 </p>
 
 Like most of our design, we attempted to make it as simple and efficient as possible for the users and gave them only two choices. 
 
 <p align="center">
-  <img src="../Assets/Final.png" alt="Final screen" style="width:384px;height:512px;">
+  <img src="../Assets/Final.png" alt="Final screen">
 </p>
 
 To make it slightly more satisfying, we added a final screen to let them know that they are ready to go climb
