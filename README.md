@@ -24,3 +24,5 @@ Introduction - We are creating a more streamlined sign-in process for the Chico 
 ## Phase 3: Usability Evaluation
 
 *Coming Soon*
+
+[Full phase 3 report](phase3/)
