@@ -13,3 +13,7 @@ quick and painless?, what can we improve?
 #### Task 2
 Task two is a new climber who is trying out climbing for the first time. This task will help us figure out
 how the experience is for someone who is not only new to the interface but also climbing.
+
+#### Approach
+The overall approach to this study was experimental, with lots of observation. The easiest way to improve
+our interface is to have users test it and watch them. This will give us insight in to where users are getting stuck.
