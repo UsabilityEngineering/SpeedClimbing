@@ -9,4 +9,5 @@ From this task we hope to answer questions like, how quickly can a regular sign 
 quick and painless?, what can we improve?
 
 #### Task 2
-Task two is a new climber who 
+Task two is a new climber who is trying out climbing for the first time. This task will help us figure out
+how the experience is for someone who is not only new to the interface but also climbing.
