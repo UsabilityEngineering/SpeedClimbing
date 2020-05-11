@@ -4,8 +4,8 @@ Introduction - We are creating a more streamlined sign-in process for the Chico 
 
 ## Team Members
 
-* [**Michael Price**](https://github.com/UsabilityEngineering/uxportfolio-mkyprice) 
-* [**Ian McDonald**](https://github.com/UsabilityEngineering/uxportfolio-imcdonald1)
+* [**Michael Price**](https://usabilityengineering.github.io/uxportfolio-mkyprice) 
+* [**Ian McDonald**](https://usabilityengineering.github.io/uxportfolio-imcdonald1)
 
 ## Phase 1: User Inquiry and Inspection
 
