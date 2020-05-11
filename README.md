@@ -23,7 +23,8 @@ Introduction - We are creating a more streamlined sign-in process for the Chico 
 
 ## Phase 3: Usability Evaluation
 
-* Our Protocol and Prototype to test our interface. This containes materials to help
+* Our Protocol and Prototype to test our interface. 
+*This contains materials to help
 us study our interface and make changes.
 
 [Full phase 3 report](phase3/)
