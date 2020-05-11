@@ -1,4 +1,4 @@
-# Project Name
+# Speed Climbing
 
 Introduction - We are creating a more streamlined sign-in process for the Chico State Climbing Wall
 
