@@ -1,6 +1,6 @@
 ## Phase 3: Usability Evaluation
 
-### [Protocol](Assets/Protocol-SpeedClimbing.pdf/)
+### [Protocol](../Assets/Protocol-SpeedClimbing.pdf/)
 
 ### [Prototype](https://xd.adobe.com/view/d85142a4-0da3-48b5-4778-11d3ea7b63f2-ae60/)
 
